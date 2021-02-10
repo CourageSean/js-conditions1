@@ -1,0 +1,16 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+input {
+  width: 400px;
+}
+#index {
+  font-size: 2rem;
+  color: aliceblue;
+}
+
+h2 {
+  color: aliceblue;
+}
